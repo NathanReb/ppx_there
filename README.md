@@ -5,7 +5,7 @@ OCaml PPX extension for on-steroid `__MODULE__`.
 ## Overview
 
 `ppx_there` turns the `[%there]` extension points into the fully qualified path of the value in
-which it's used.
+which they are found, as a string.
 
 For example, the following code in a `a.ml` file:
 ```ocaml

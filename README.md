@@ -2,6 +2,8 @@
 
 OCaml PPX extension for on-steroid `__MODULE__`.
 
+[![Build Status](https://travis-ci.com/NathanReb/ppx_there.svg?branch=master)](https://travis-ci.com/NathanReb/ppx_there)
+
 ## Overview
 
 `ppx_there` turns the `[%there]` extension points into the fully qualified path of the value in

@@ -20,5 +20,5 @@ depends: [
 synopsis: "PPX extension for improved __MODULE__"
 description: """
 ppx_there is a ppx rewriter that turns [%there] extension points into
-the a string that's the fully qualified path of the value in which it's defined.
+a string representing the fully qualified path to the value in which it's defined.
 """

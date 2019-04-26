@@ -1,1 +1,1 @@
-let top_level = __MODULE__ ^ ".top_level"
+let top_level = "Test.top_level"

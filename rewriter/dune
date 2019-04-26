@@ -1,10 +1,4 @@
 (library
-  (name ppx_there)
-  (public_name ppx_there)
-  (kind ppx_rewriter)
-  (libraries
-    ppx_there_lib
-    ppxlib
-  )
-)
-
+ (public_name ppx_there)
+ (kind ppx_rewriter)
+ (libraries ppxlib))
